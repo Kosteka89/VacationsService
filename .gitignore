@@ -1,0 +1,57 @@
+# ============================================
+# Maven build directory (НЕ ВИДЕН)
+# ============================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ============================================
+# IntelliJ IDEA (НЕ ВИДЕН)
+# ============================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
+.vscode/
+
+# ============================================
+# Compiled Java files (НЕ ВИДЕН)
+# ============================================
+*.class
+*.jar
+*.war
+*.ear
+
+# ============================================
+# Eclipse (НЕ ВИДЕН)
+# ============================================
+.classpath
+.project
+.settings/
+bin/
+build/
+
+# ============================================
+# OS files (НЕ ВИДЕН)
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Logs and temp (НЕ ВИДЕН)
+# ============================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
